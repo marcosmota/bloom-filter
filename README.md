@@ -44,6 +44,9 @@ We need only 2 parameters, the **number of elements (n**) and **false positive r
 
 ```math
 m = -\frac{n\ln(p)}{(\ln(2))^2}
+```
+
+```math
 k = \frac{m}{n}\ln(2)
 ```
 
